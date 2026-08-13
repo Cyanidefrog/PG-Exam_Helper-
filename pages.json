@@ -1,0 +1,48 @@
+﻿{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "考研刷卷助手"
+			}
+		},
+		{
+			"path": "pages/set/create",
+			"style": {
+				"navigationBarTitleText": "创建习题集"
+			}
+		},
+		{
+			"path": "pages/practice/index",
+			"style": {
+				"navigationBarTitleText": "刷卷记录"
+			}
+		},
+		{
+			"path": "pages/wrong/index",
+			"style": {
+				"navigationBarTitleText": "错题本"
+			}
+		},
+		{
+			"path": "pages/wrong/edit",
+			"style": {
+				"navigationBarTitleText": "录入错题"
+			}
+		},
+		{
+			"path": "pages/wrong/detail",
+			"style": {
+				"navigationBarTitleText": "错题详情"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "考研刷卷助手",
+		"navigationBarBackgroundColor": "#3D6AF2",
+		"backgroundColor": "#F5F6FA"
+	},
+	"uniIdRouter": {}
+}
+
